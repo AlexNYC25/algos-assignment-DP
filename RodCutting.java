@@ -1,5 +1,6 @@
 /**
- * Rod cutting problem described in Chapter 15 of textbook
+ * Rod cutting problem described in Chapter 15 of textbook Completed By Alexis
+ * Montes
  */
 public class RodCutting {
 
